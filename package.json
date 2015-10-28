@@ -1,0 +1,26 @@
+{
+  "name": "redo_react_todolist",
+  "version": "1.0.0",
+  "description": "A redo To help understand the workings of ReactJS",
+  "main": "index.html",
+  "dependencies": {
+    "jquery": "^2.1.4",
+    "jsx-loader": "^0.13.2",
+    "react": "^0.14.0",
+    "react-dom": "^0.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bryanschauerte/redo_react_todoList.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bryanschauerte/redo_react_todoList/issues"
+  },
+  "homepage": "https://github.com/Bryanschauerte/redo_react_todoList#readme"
+}

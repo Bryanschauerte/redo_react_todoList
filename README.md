@@ -1,1 +1,2 @@
-# redo_react_todoList
+# React_ChatRoom
+A redo To help understand the workings of ReactJS
